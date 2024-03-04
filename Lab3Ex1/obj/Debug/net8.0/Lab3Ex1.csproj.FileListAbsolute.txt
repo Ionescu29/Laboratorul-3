@@ -1,0 +1,14 @@
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\bin\Debug\net8.0\Lab3Ex1.exe
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\bin\Debug\net8.0\Lab3Ex1.deps.json
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\bin\Debug\net8.0\Lab3Ex1.runtimeconfig.json
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\bin\Debug\net8.0\Lab3Ex1.dll
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\bin\Debug\net8.0\Lab3Ex1.pdb
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.dll
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\refint\Lab3Ex1.dll
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.pdb
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\Lab3Ex1.genruntimeconfig.cache
+C:\Users\Ionut\source\repos\Lab3Ex1\Lab3Ex1\obj\Debug\net8.0\ref\Lab3Ex1.dll
